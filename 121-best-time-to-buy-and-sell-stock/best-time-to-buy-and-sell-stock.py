@@ -4,7 +4,6 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        output = 0
         min_price = float('inf')
         max_profit = 0
 
