@@ -5,9 +5,7 @@ class Solution(object):
         :rtype: List[int]
         """ 
         nums.sort()
-        for i in range(1,len(nums), 2):
-            temp = nums[i]
-            nums[i] = nums[i-1]
-            nums[i-1] = temp
+        for i in range(0, len(nums),2):
+            nums[i], nums[i+1] = nums[i+1], nums[i]
 
         return nums
