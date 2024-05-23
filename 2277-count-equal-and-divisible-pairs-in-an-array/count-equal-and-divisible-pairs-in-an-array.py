@@ -8,8 +8,7 @@ class Solution(object):
         pairs = 0
         for i in range(len(nums)):
             for j in range(len(nums) -1, -1, -1):
-                if i < j:
-                    if nums[i] == nums[j] and ((i * j) % k) == 0:
-                        pairs += 1
+                if i < j and nums[i] == nums[j] and ((i * j) % k) == 0:
+                    pairs += 1
 
         return pairs
