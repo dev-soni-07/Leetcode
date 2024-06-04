@@ -12,6 +12,8 @@ var countMatches = function(items, ruleKey, ruleValue) {
         rulekeyno = 1;
     } else if(ruleKey === "name"){
         rulekeyno = 2;
+    } else {
+        return 0;
     }
 
     let matched = 0;
