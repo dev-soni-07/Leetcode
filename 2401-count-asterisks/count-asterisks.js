@@ -3,19 +3,17 @@
  * @return {number}
  */
 var countAsterisks = function(s) {
-    let count = 0;
-    let result = 0;
+    let asterisk_count  = 0;
+    let inside_pair = false;
 
     for(char of s){
         if(char === "|"){
-            count += 1;
+            inside_pair = !inside_pair;
         }
-        if(count % 2 == 0){
-            if(char === "*"){
-                result += 1;
-            }
+        if(char === "*" && !inside_pair){
+            asterisk_count += 1;
         }
     }
 
-    return result;
+    return asterisk_count;
 };
