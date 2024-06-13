@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/digital-dev-07/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/digital-dev-07/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2058-concatenation-of-array) |
 # Simulation
 |  |
@@ -27,3 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/digital-dev-07/Leetcode/tree/master/1635-number-of-good-pairs) |
+# Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/digital-dev-07/Leetcode/tree/master/1791-richest-customer-wealth) |
