@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/left-and-right-sum-differences">Left and Right Sum Differences</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, find a <strong>0-indexed </strong>integer array <code>answer</code> where:</p>
+<h2><a href="https://leetcode.com/problems/left-and-right-sum-differences">2714. Left and Right Sum Differences</a></h2><h3>Easy</h3><hr><p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, find a <strong>0-indexed </strong>integer array <code>answer</code> where:</p>
 
 <ul>
     <li><code>answer.length == nums.length</code>.</li>
