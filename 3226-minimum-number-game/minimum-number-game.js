@@ -3,26 +3,16 @@
  * @return {number[]}
  */
 var numberGame = function(nums) {
-    let result = [], alice = [], bob = [];
-    nums.sort((a, b) => a - b);
-    let turn = "Alice";
+    let result = [];
+    nums.sort((a, b) => b - a);
 
-    for (let i = 0; i < nums.length; i++) {
-        if (turn === "Alice") {
-            alice.push(nums[i]);
-            turn = "Bob";
-            continue;
-        }
-        if (turn === "Bob") {
-            bob.push(nums[i]);
-            turn = "Alice";
-            continue;
-        }
+    let l = nums.length
+    for (let i = 0; i < l / 2; i++) {
+        let a = nums.pop();
+        let b = nums.pop();
+        result.push(b);
+        result.push(a);
     }
 
-    for (let i = 0; i < alice.length; i++) {
-        result.push(bob[i]);
-        result.push(alice[i]);
-    }
     return result;
 };
