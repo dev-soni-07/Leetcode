@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1603-running-sum-of-1d-array](https://github.com/digital-dev-07/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/digital-dev-07/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/digital-dev-07/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/digital-dev-07/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2058-concatenation-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/digital-dev-07/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/digital-dev-07/Leetcode/tree/master/2502-sort-the-people) |
