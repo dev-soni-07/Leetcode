@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/digital-dev-07/Leetcode/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/digital-dev-07/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -103,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/digital-dev-07/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
