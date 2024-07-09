@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/digital-dev-07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/digital-dev-07/Leetcode/tree/master/0075-sort-colors) |
+| [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -121,4 +123,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
