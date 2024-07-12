@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/digital-dev-07/Leetcode/tree/master/0344-reverse-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
+| [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Monotonic Stack
 |  |
 | ------- |
