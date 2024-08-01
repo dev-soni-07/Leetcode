@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/digital-dev-07/Leetcode/tree/master/0344-reverse-string) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/digital-dev-07/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/digital-dev-07/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2226-rings-and-rods](https://github.com/digital-dev-07/Leetcode/tree/master/2226-rings-and-rods) |
