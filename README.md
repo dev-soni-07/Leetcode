@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
 | [3312-number-of-changing-keys](https://github.com/digital-dev-07/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Stack
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Hash Table
 |  |
 | ------- |
