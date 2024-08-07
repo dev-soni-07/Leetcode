@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room">Minimum Number of Chairs in a Waiting Room</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code>. Simulate events at each second <code>i</code>:</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room">3426. Minimum Number of Chairs in a Waiting Room</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code>. Simulate events at each second <code>i</code>:</p>
 
 <ul>
 	<li>If <code>s[i] == &#39;E&#39;</code>, a person enters the waiting room and takes one of the chairs in it.</li>
