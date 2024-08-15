@@ -7,17 +7,8 @@ var splitWordsBySeparator = function(words, separator) {
     let splittedString = [];
 
     for (let word of words) {
-        if (word.includes(separator)) {
-            const filteredArray = word.split(separator);
-            for (let filteredString of filteredArray) {
-                if (filteredString !== "") {
-                    splittedString.push(filteredString);
-                }
-            }
-        } else {
-            splittedString.push(word);
-        }
+        splittedString.push(...word.split(separator));
     }
 
-    return splittedString;
+    return splittedString.filter(filteredString => filteredString !== "");
 };
