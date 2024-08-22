@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0344-reverse-string](https://github.com/digital-dev-07/Leetcode/tree/master/0344-reverse-string) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/digital-dev-07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/digital-dev-07/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/digital-dev-07/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/digital-dev-07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/digital-dev-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
