@@ -131,12 +131,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/digital-dev-07/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/digital-dev-07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/digital-dev-07/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Hash Table
