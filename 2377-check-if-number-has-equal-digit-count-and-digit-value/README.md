@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value">2377. Check if Number Has Equal Digit Count and Digit Value</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> string <code>num</code> of length <code>n</code> consisting of digits.</p>
+<h2><a href="https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value">Check if Number Has Equal Digit Count and Digit Value</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> string <code>num</code> of length <code>n</code> consisting of digits.</p>
 
 <p>Return <code>true</code> <em>if for <strong>every</strong> index </em><code>i</code><em> in the range </em><code>0 &lt;= i &lt; n</code><em>, the digit </em><code>i</code><em> occurs </em><code>num[i]</code><em> times in </em><code>num</code><em>, otherwise return </em><code>false</code>.</p>
 
