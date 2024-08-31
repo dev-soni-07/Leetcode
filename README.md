@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/digital-dev-07/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/digital-dev-07/Leetcode/tree/master/2226-rings-and-rods) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/digital-dev-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2226-rings-and-rods](https://github.com/digital-dev-07/Leetcode/tree/master/2226-rings-and-rods) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Bit Manipulation
 |  |
