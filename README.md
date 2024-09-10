@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/digital-dev-07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/digital-dev-07/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/digital-dev-07/Leetcode/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0941-sort-array-by-parity](https://github.com/digital-dev-07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/digital-dev-07/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/digital-dev-07/Leetcode/tree/master/0136-single-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/digital-dev-07/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
