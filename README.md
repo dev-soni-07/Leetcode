@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/digital-dev-07/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/digital-dev-07/Leetcode/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0812-rotate-string](https://github.com/digital-dev-07/Leetcode/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/digital-dev-07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
