@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/digital-dev-07/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/digital-dev-07/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/digital-dev-07/Leetcode/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/digital-dev-07/Leetcode/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/digital-dev-07/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0941-sort-array-by-parity](https://github.com/digital-dev-07/Leetcode/tree/master/0941-sort-array-by-parity) |
