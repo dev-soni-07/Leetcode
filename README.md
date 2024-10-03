@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/digital-dev-07/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/digital-dev-07/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/digital-dev-07/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/digital-dev-07/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0812-rotate-string](https://github.com/digital-dev-07/Leetcode/tree/master/0812-rotate-string) |
@@ -249,5 +250,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/digital-dev-07/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/digital-dev-07/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
