@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/digital-dev-07/Leetcode/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/digital-dev-07/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0749-shortest-completing-word](https://github.com/digital-dev-07/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0941-sort-array-by-parity](https://github.com/digital-dev-07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/digital-dev-07/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0459-repeated-substring-pattern](https://github.com/digital-dev-07/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/digital-dev-07/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0749-shortest-completing-word](https://github.com/digital-dev-07/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/digital-dev-07/Leetcode/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/digital-dev-07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/digital-dev-07/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/digital-dev-07/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0749-shortest-completing-word](https://github.com/digital-dev-07/Leetcode/tree/master/0749-shortest-completing-word) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/digital-dev-07/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/digital-dev-07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
