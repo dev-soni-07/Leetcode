@@ -3,18 +3,14 @@
  * @return {number}
  */
 var distributeCandies = function(candyType) {
-    let uniqueCandies = [], maxCandies = candyType.length / 2;
+    let candyTypes = new Set(candyType).size, maxCandies = candyType.length / 2;
 
-    candyType.forEach(candy => {
-        if (!uniqueCandies.includes(candy)) {
-            uniqueCandies.push(candy);
-        }
-    })
-
-    if (uniqueCandies.length > maxCandies) {
+    if (candyTypes >= maxCandies) {
         return maxCandies;
-    } else {
-        return uniqueCandies.length;
+    }
+
+    if (candyTypes < maxCandies) {
+        return candyTypes;
     }
 
 };
