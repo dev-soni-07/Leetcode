@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/digital-dev-07/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/digital-dev-07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/digital-dev-07/Leetcode/tree/master/0605-can-place-flowers) |
 | [0749-shortest-completing-word](https://github.com/digital-dev-07/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0941-sort-array-by-parity](https://github.com/digital-dev-07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/digital-dev-07/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/digital-dev-07/Leetcode/tree/master/0605-can-place-flowers) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Enumeration
 |  |
