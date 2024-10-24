@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/digital-dev-07/Leetcode/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/digital-dev-07/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/digital-dev-07/Leetcode/tree/master/0605-can-place-flowers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/digital-dev-07/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0749-shortest-completing-word](https://github.com/digital-dev-07/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/digital-dev-07/Leetcode/tree/master/0837-most-common-word) |
 | [0941-sort-array-by-parity](https://github.com/digital-dev-07/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/digital-dev-07/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
