@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0749-shortest-completing-word](https://github.com/digital-dev-07/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/digital-dev-07/Leetcode/tree/master/0837-most-common-word) |
 | [0941-sort-array-by-parity](https://github.com/digital-dev-07/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/digital-dev-07/Leetcode/tree/master/0944-smallest-range-i) |
 | [0965-unique-email-addresses](https://github.com/digital-dev-07/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/digital-dev-07/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/digital-dev-07/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/digital-dev-07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
+| [0944-smallest-range-i](https://github.com/digital-dev-07/Leetcode/tree/master/0944-smallest-range-i) |
 | [1260-day-of-the-year](https://github.com/digital-dev-07/Leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/digital-dev-07/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
