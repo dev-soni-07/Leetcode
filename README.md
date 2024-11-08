@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1297-maximum-number-of-balloons](https://github.com/digital-dev-07/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/digital-dev-07/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/digital-dev-07/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1812-reformat-phone-number](https://github.com/digital-dev-07/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
