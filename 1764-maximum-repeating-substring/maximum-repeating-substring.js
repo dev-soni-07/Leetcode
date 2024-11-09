@@ -4,7 +4,7 @@
  * @return {number}
  */
 var maxRepeating = function(sequence, word) {
-     let k = 0;
+    let k = 0;
     let repeatedWord = word;
 
     while (sequence.includes(repeatedWord)) {
