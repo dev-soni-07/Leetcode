@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1297-maximum-number-of-balloons](https://github.com/digital-dev-07/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/digital-dev-07/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/digital-dev-07/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1666-make-the-string-great](https://github.com/digital-dev-07/Leetcode/tree/master/1666-make-the-string-great) |
 | [1812-reformat-phone-number](https://github.com/digital-dev-07/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/digital-dev-07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/digital-dev-07/Leetcode/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
 ## Queue
