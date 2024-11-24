@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/digital-dev-07/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/digital-dev-07/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/digital-dev-07/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/digital-dev-07/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/digital-dev-07/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
