@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
+| [1115-valid-boomerang](https://github.com/digital-dev-07/Leetcode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/digital-dev-07/Leetcode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0944-smallest-range-i](https://github.com/digital-dev-07/Leetcode/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1115-valid-boomerang](https://github.com/digital-dev-07/Leetcode/tree/master/1115-valid-boomerang) |
 | [1260-day-of-the-year](https://github.com/digital-dev-07/Leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/digital-dev-07/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -303,4 +305,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/digital-dev-07/Leetcode/tree/master/0506-relative-ranks) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/digital-dev-07/Leetcode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
