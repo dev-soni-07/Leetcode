@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/digital-dev-07/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/digital-dev-07/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1666-make-the-string-great](https://github.com/digital-dev-07/Leetcode/tree/master/1666-make-the-string-great) |
+| [1714-rearrange-spaces-between-words](https://github.com/digital-dev-07/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1812-reformat-phone-number](https://github.com/digital-dev-07/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1904-second-largest-digit-in-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
