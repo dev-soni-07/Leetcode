@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/rearrange-characters-to-make-target-string">2372. Rearrange Characters to Make Target String</a></h2><h3>Easy</h3><hr><p>You are given two <strong>0-indexed</strong> strings <code>s</code> and <code>target</code>. You can take some letters from <code>s</code> and rearrange them to form new strings.</p>
+<h2><a href="https://leetcode.com/problems/rearrange-characters-to-make-target-string">Rearrange Characters to Make Target String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two <strong>0-indexed</strong> strings <code>s</code> and <code>target</code>. You can take some letters from <code>s</code> and rearrange them to form new strings.</p>
 
 <p>Return<em> the <strong>maximum</strong> number of copies of </em><code>target</code><em> that can be formed by taking letters from </em><code>s</code><em> and rearranging them.</em></p>
 
