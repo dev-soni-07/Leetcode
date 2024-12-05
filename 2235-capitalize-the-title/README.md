@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/capitalize-the-title/?envType=problem-list-v2&envId=string&difficulty=EASY&status=TO_DO">2235. Capitalize the Title</a></h2><h3>Easy</h3><hr><p>You are given a string <code>title</code> consisting of one or more words separated by a single space, where each word consists of English letters. <strong>Capitalize</strong> the string by changing the capitalization of each word such that:</p>
+<h2><a href="https://leetcode.com/problems/capitalize-the-title">Capitalize the Title</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>title</code> consisting of one or more words separated by a single space, where each word consists of English letters. <strong>Capitalize</strong> the string by changing the capitalization of each word such that:</p>
 
 <ul>
 	<li>If the length of the word is <code>1</code> or <code>2</code> letters, change all letters to lowercase.</li>
