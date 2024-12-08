@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/digital-dev-07/Leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/digital-dev-07/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/digital-dev-07/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/digital-dev-07/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/digital-dev-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1115-valid-boomerang](https://github.com/digital-dev-07/Leetcode/tree/master/1115-valid-boomerang) |
 | [1260-day-of-the-year](https://github.com/digital-dev-07/Leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/digital-dev-07/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/digital-dev-07/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0605-can-place-flowers](https://github.com/digital-dev-07/Leetcode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/digital-dev-07/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Enumeration
 |  |
