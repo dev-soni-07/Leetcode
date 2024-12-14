@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0749-shortest-completing-word](https://github.com/digital-dev-07/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/digital-dev-07/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/digital-dev-07/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-lemonade-change](https://github.com/digital-dev-07/Leetcode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/digital-dev-07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/digital-dev-07/Leetcode/tree/master/0944-smallest-range-i) |
 | [0965-unique-email-addresses](https://github.com/digital-dev-07/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/digital-dev-07/Leetcode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/digital-dev-07/Leetcode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/digital-dev-07/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
