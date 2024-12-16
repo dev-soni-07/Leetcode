@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/latest-time-by-replacing-hidden-digits">1858. Latest Time by Replacing Hidden Digits</a></h2><h3>Easy</h3><hr><p>You are given a string <code>time</code> in the form of <code> hh:mm</code>, where some of the digits in the string are hidden (represented by <code>?</code>).</p>
+<h2><a href="https://leetcode.com/problems/latest-time-by-replacing-hidden-digits">Latest Time by Replacing Hidden Digits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>time</code> in the form of <code> hh:mm</code>, where some of the digits in the string are hidden (represented by <code>?</code>).</p>
 
 <p>The valid times are those inclusively between <code>00:00</code> and <code>23:59</code>.</p>
 
