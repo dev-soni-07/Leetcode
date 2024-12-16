@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1714-rearrange-spaces-between-words](https://github.com/digital-dev-07/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1812-reformat-phone-number](https://github.com/digital-dev-07/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/digital-dev-07/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1904-second-largest-digit-in-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/digital-dev-07/Leetcode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/digital-dev-07/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/digital-dev-07/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Enumeration
 |  |
