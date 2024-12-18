@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1274-number-of-days-between-two-dates](https://github.com/digital-dev-07/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/digital-dev-07/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/digital-dev-07/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1904-second-largest-digit-in-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/digital-dev-07/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/digital-dev-07/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Enumeration
 |  |
