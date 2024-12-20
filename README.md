@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/digital-dev-07/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## String
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
+| [3567-convert-date-to-binary](https://github.com/digital-dev-07/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
 | ------- |
