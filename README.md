@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1812-reformat-phone-number](https://github.com/digital-dev-07/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/digital-dev-07/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/digital-dev-07/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
