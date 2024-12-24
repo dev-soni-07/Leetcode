@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/digital-dev-07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/digital-dev-07/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/digital-dev-07/Leetcode/tree/master/0605-can-place-flowers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/digital-dev-07/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/digital-dev-07/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0749-shortest-completing-word](https://github.com/digital-dev-07/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/digital-dev-07/Leetcode/tree/master/0837-most-common-word) |
