@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-alternating-subarray">2870. Longest Alternating Subarray</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. A subarray <code>s</code> of length <code>m</code> is called <strong>alternating</strong> if:</p>
+<h2><a href="https://leetcode.com/problems/longest-alternating-subarray">Longest Alternating Subarray</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. A subarray <code>s</code> of length <code>m</code> is called <strong>alternating</strong> if:</p>
 
 <ul>
 	<li><code>m</code> is greater than <code>1</code>.</li>
