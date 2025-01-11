@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/digital-dev-07/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/digital-dev-07/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/digital-dev-07/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/digital-dev-07/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
