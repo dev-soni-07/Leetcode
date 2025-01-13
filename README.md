@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/digital-dev-07/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2154-minimum-moves-to-convert-string](https://github.com/digital-dev-07/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/digital-dev-07/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/digital-dev-07/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/digital-dev-07/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2154-minimum-moves-to-convert-string](https://github.com/digital-dev-07/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/digital-dev-07/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Enumeration
 |  |
