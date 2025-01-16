@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/digital-dev-07/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/digital-dev-07/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/digital-dev-07/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/digital-dev-07/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
