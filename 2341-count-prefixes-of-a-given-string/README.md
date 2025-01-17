@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-prefixes-of-a-given-string">2341. Count Prefixes of a Given String</a></h2><h3>Easy</h3><hr><p>You are given a string array <code>words</code> and a string <code>s</code>, where <code>words[i]</code> and <code>s</code> comprise only of <strong>lowercase English letters</strong>.</p>
+<h2><a href="https://leetcode.com/problems/count-prefixes-of-a-given-string">Count Prefixes of a Given String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string array <code>words</code> and a string <code>s</code>, where <code>words[i]</code> and <code>s</code> comprise only of <strong>lowercase English letters</strong>.</p>
 
 <p>Return <em>the <strong>number of strings</strong> in</em> <code>words</code> <em>that are a <strong>prefix</strong> of</em> <code>s</code>.</p>
 
