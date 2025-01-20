@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2190-count-common-words-with-one-occurrence](https://github.com/digital-dev-07/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/digital-dev-07/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/digital-dev-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2341-count-prefixes-of-a-given-string](https://github.com/digital-dev-07/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/digital-dev-07/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/digital-dev-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2190-count-common-words-with-one-occurrence](https://github.com/digital-dev-07/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/digital-dev-07/Leetcode/tree/master/2226-rings-and-rods) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
