@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0953-reverse-only-letters](https://github.com/digital-dev-07/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/digital-dev-07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1454-remove-palindromic-subsequences](https://github.com/digital-dev-07/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1274-number-of-days-between-two-dates](https://github.com/digital-dev-07/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/digital-dev-07/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/digital-dev-07/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1454-remove-palindromic-subsequences](https://github.com/digital-dev-07/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/digital-dev-07/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1666-make-the-string-great](https://github.com/digital-dev-07/Leetcode/tree/master/1666-make-the-string-great) |
 | [1714-rearrange-spaces-between-words](https://github.com/digital-dev-07/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
