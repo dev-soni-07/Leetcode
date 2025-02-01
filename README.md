@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/digital-dev-07/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1115-valid-boomerang](https://github.com/digital-dev-07/Leetcode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/digital-dev-07/Leetcode/tree/master/1137-height-checker) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/digital-dev-07/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/digital-dev-07/Leetcode/tree/master/1293-three-consecutive-odds) |
