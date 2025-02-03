@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/digital-dev-07/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/digital-dev-07/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/digital-dev-07/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2496-count-days-spent-together](https://github.com/digital-dev-07/Leetcode/tree/master/2496-count-days-spent-together) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/digital-dev-07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1274-number-of-days-between-two-dates](https://github.com/digital-dev-07/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/digital-dev-07/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/digital-dev-07/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/digital-dev-07/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1454-remove-palindromic-subsequences](https://github.com/digital-dev-07/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/digital-dev-07/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -417,5 +419,6 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/digital-dev-07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/digital-dev-07/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/digital-dev-07/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
