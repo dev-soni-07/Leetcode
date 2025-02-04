@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/digital-dev-07/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1115-valid-boomerang](https://github.com/digital-dev-07/Leetcode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/digital-dev-07/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/digital-dev-07/Leetcode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/digital-dev-07/Leetcode/tree/master/1287-distance-between-bus-stops) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/digital-dev-07/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/digital-dev-07/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/digital-dev-07/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/digital-dev-07/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0990-verifying-an-alien-dictionary](https://github.com/digital-dev-07/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/digital-dev-07/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/digital-dev-07/Leetcode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/digital-dev-07/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/digital-dev-07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/digital-dev-07/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -364,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/digital-dev-07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/digital-dev-07/Leetcode/tree/master/0837-most-common-word) |
 | [1137-height-checker](https://github.com/digital-dev-07/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/digital-dev-07/Leetcode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/digital-dev-07/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/digital-dev-07/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/digital-dev-07/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
