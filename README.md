@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/digital-dev-07/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/digital-dev-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/digital-dev-07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/digital-dev-07/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1454-remove-palindromic-subsequences](https://github.com/digital-dev-07/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/digital-dev-07/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/digital-dev-07/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/digital-dev-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/digital-dev-07/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -351,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1319-unique-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/digital-dev-07/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/digital-dev-07/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/digital-dev-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1904-second-largest-digit-in-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/digital-dev-07/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
