@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/digital-dev-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
 | [3312-number-of-changing-keys](https://github.com/digital-dev-07/Leetcode/tree/master/3312-number-of-changing-keys) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/digital-dev-07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/digital-dev-07/Leetcode/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
 ## Queue
 |  |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/digital-dev-07/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/digital-dev-07/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
