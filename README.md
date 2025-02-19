@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/digital-dev-07/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/digital-dev-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/digital-dev-07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/digital-dev-07/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -455,4 +457,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/digital-dev-07/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
