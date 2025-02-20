@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
+| [3019-furthest-point-from-origin](https://github.com/digital-dev-07/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3312-number-of-changing-keys](https://github.com/digital-dev-07/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2190-count-common-words-with-one-occurrence](https://github.com/digital-dev-07/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/digital-dev-07/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3019-furthest-point-from-origin](https://github.com/digital-dev-07/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Bit Manipulation
 |  |
