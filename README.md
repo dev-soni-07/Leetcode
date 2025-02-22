@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/digital-dev-07/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/digital-dev-07/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/digital-dev-07/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1094-matrix-cells-in-distance-order](https://github.com/digital-dev-07/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/digital-dev-07/Leetcode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/digital-dev-07/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/digital-dev-07/Leetcode/tree/master/1217-relative-sort-array) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/digital-dev-07/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/digital-dev-07/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1094-matrix-cells-in-distance-order](https://github.com/digital-dev-07/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/digital-dev-07/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/digital-dev-07/Leetcode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/digital-dev-07/Leetcode/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1094-matrix-cells-in-distance-order](https://github.com/digital-dev-07/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/digital-dev-07/Leetcode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/digital-dev-07/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/digital-dev-07/Leetcode/tree/master/1260-day-of-the-year) |
@@ -446,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/digital-dev-07/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/digital-dev-07/Leetcode/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/digital-dev-07/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Sliding Window
@@ -457,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/digital-dev-07/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/digital-dev-07/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
