@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/digital-dev-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/digital-dev-07/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/digital-dev-07/Leetcode/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/digital-dev-07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/digital-dev-07/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/digital-dev-07/Leetcode/tree/master/0605-can-place-flowers) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/digital-dev-07/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/digital-dev-07/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1094-matrix-cells-in-distance-order](https://github.com/digital-dev-07/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/digital-dev-07/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
