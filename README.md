@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
 | [3019-furthest-point-from-origin](https://github.com/digital-dev-07/Leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3207-make-three-strings-equal](https://github.com/digital-dev-07/Leetcode/tree/master/3207-make-three-strings-equal) |
 | [3312-number-of-changing-keys](https://github.com/digital-dev-07/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
