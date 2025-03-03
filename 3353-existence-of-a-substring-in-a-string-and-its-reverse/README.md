@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse">3353. Existence of a Substring in a String and Its Reverse</a></h2><h3>Easy</h3><hr><p>Given a<strong> </strong>string <code>s</code>, find any <span data-keyword="substring">substring</span> of length <code>2</code> which is also present in the reverse of <code>s</code>.</p>
+<h2><a href="https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse">Existence of a Substring in a String and Its Reverse</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a<strong> </strong>string <code>s</code>, find any <span data-keyword="substring">substring</span> of length <code>2</code> which is also present in the reverse of <code>s</code>.</p>
 
 <p>Return <code>true</code><em> if such a substring exists, and </em><code>false</code><em> otherwise.</em></p>
 
