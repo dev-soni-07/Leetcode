@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1430-find-the-k-beauty-of-a-number](https://github.com/digital-dev-07/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2496-count-days-spent-together](https://github.com/digital-dev-07/Leetcode/tree/master/2496-count-days-spent-together) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/digital-dev-07/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/digital-dev-07/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## String
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3019-furthest-point-from-origin](https://github.com/digital-dev-07/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3207-make-three-strings-equal](https://github.com/digital-dev-07/Leetcode/tree/master/3207-make-three-strings-equal) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/digital-dev-07/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3312-number-of-changing-keys](https://github.com/digital-dev-07/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/digital-dev-07/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/digital-dev-07/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/digital-dev-07/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/digital-dev-07/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
 | ------- |
