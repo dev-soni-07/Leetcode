@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/digital-dev-07/Leetcode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/digital-dev-07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/digital-dev-07/Leetcode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/digital-dev-07/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/digital-dev-07/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/digital-dev-07/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/digital-dev-07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/digital-dev-07/Leetcode/tree/master/0412-fizz-buzz) |
+| [0598-range-addition-ii](https://github.com/digital-dev-07/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/digital-dev-07/Leetcode/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
