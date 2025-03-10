@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3207-make-three-strings-equal](https://github.com/digital-dev-07/Leetcode/tree/master/3207-make-three-strings-equal) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/digital-dev-07/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3312-number-of-changing-keys](https://github.com/digital-dev-07/Leetcode/tree/master/3312-number-of-changing-keys) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/digital-dev-07/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/digital-dev-07/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/digital-dev-07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/digital-dev-07/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/digital-dev-07/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
