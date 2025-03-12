@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters">3361. Latest Time You Can Obtain After Replacing Characters</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> representing a 12-hour format time where some of the digits (possibly none) are replaced with a <code>&quot;?&quot;</code>.</p>
+<h2><a href="https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters">Latest Time You Can Obtain After Replacing Characters</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code> representing a 12-hour format time where some of the digits (possibly none) are replaced with a <code>&quot;?&quot;</code>.</p>
 
 <p>12-hour times are formatted as <code>&quot;HH:MM&quot;</code>, where <code>HH</code> is between <code>00</code> and <code>11</code>, and <code>MM</code> is between <code>00</code> and <code>59</code>. The earliest 12-hour time is <code>00:00</code>, and the latest is <code>11:59</code>.</p>
 
