@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/digital-dev-07/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/digital-dev-07/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/digital-dev-07/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/digital-dev-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/digital-dev-07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/digital-dev-07/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/digital-dev-07/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/digital-dev-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/digital-dev-07/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/digital-dev-07/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/digital-dev-07/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/digital-dev-07/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/digital-dev-07/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/digital-dev-07/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/digital-dev-07/Leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
