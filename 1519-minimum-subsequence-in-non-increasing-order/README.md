@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order">1519. Minimum Subsequence in Non-Increasing Order</a></h2><h3>Easy</h3><hr><p>Given the array <code>nums</code>, obtain a subsequence of the array whose sum of elements is <strong>strictly greater</strong> than the sum of the non&nbsp;included elements in such subsequence.&nbsp;</p>
+<h2><a href="https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order">Minimum Subsequence in Non-Increasing Order</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given the array <code>nums</code>, obtain a subsequence of the array whose sum of elements is <strong>strictly greater</strong> than the sum of the non&nbsp;included elements in such subsequence.&nbsp;</p>
 
 <p>If there are multiple solutions, return the subsequence with <strong>minimum size</strong> and if there still exist multiple solutions, return the subsequence with the <strong>maximum total sum</strong> of all its elements. A subsequence of an array can be obtained by erasing some (possibly zero) elements from the array.&nbsp;</p>
 
