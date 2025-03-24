@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/digital-dev-07/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/digital-dev-07/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3567-convert-date-to-binary](https://github.com/digital-dev-07/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/digital-dev-07/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/digital-dev-07/Leetcode/tree/master/3636-check-balanced-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -516,4 +519,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/digital-dev-07/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
