@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3617-find-the-original-typed-string-i](https://github.com/digital-dev-07/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/digital-dev-07/Leetcode/tree/master/3636-check-balanced-string) |
 | [3709-find-special-substring-of-length-k](https://github.com/digital-dev-07/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3408-count-the-number-of-special-characters-i](https://github.com/digital-dev-07/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/digital-dev-07/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2532-remove-letter-to-equalize-frequency](https://github.com/digital-dev-07/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3019-furthest-point-from-origin](https://github.com/digital-dev-07/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
