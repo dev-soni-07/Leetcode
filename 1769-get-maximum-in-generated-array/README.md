@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/get-maximum-in-generated-array">1769. Get Maximum in Generated Array</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>n</code>. A <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n + 1</code> is generated in the following way:</p>
+<h2><a href="https://leetcode.com/problems/get-maximum-in-generated-array">Get Maximum in Generated Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>n</code>. A <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n + 1</code> is generated in the following way:</p>
 
 <ul>
 	<li><code>nums[0] = 0</code></li>
