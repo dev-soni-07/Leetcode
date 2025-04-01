@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/digital-dev-07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/digital-dev-07/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/digital-dev-07/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/digital-dev-07/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/digital-dev-07/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1829-maximum-units-on-a-truck](https://github.com/digital-dev-07/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/digital-dev-07/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/digital-dev-07/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2870-longest-alternating-subarray](https://github.com/digital-dev-07/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [3221-find-the-peaks](https://github.com/digital-dev-07/Leetcode/tree/master/3221-find-the-peaks) |
