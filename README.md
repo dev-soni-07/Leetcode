@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/digital-dev-07/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/digital-dev-07/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/digital-dev-07/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1760-check-array-formation-through-concatenation](https://github.com/digital-dev-07/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1829-maximum-units-on-a-truck](https://github.com/digital-dev-07/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/digital-dev-07/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/digital-dev-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1760-check-array-formation-through-concatenation](https://github.com/digital-dev-07/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1904-second-largest-digit-in-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/digital-dev-07/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
