@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/digital-dev-07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/digital-dev-07/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/digital-dev-07/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1682-most-visited-sector-in-a-circular-track](https://github.com/digital-dev-07/Leetcode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/digital-dev-07/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/digital-dev-07/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/digital-dev-07/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/digital-dev-07/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1682-most-visited-sector-in-a-circular-track](https://github.com/digital-dev-07/Leetcode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/digital-dev-07/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
