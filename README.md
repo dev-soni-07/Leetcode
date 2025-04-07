@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3709-find-special-substring-of-length-k](https://github.com/digital-dev-07/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
