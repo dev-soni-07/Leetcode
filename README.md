@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1829-maximum-units-on-a-truck](https://github.com/digital-dev-07/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/digital-dev-07/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/digital-dev-07/Leetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/digital-dev-07/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
