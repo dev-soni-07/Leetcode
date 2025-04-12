@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2496-count-days-spent-together](https://github.com/digital-dev-07/Leetcode/tree/master/2496-count-days-spent-together) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/digital-dev-07/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/digital-dev-07/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/digital-dev-07/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3468-find-the-encrypted-string](https://github.com/digital-dev-07/Leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3533-snake-in-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/digital-dev-07/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/digital-dev-07/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/digital-dev-07/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/digital-dev-07/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/digital-dev-07/Leetcode/tree/master/3636-check-balanced-string) |
