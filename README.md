@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1950-sign-of-the-product-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/digital-dev-07/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/digital-dev-07/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/digital-dev-07/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -560,4 +561,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/digital-dev-07/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
