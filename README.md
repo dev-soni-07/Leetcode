@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/digital-dev-07/Leetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/digital-dev-07/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/digital-dev-07/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/digital-dev-07/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
