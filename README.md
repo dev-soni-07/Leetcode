@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/digital-dev-07/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/digital-dev-07/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1755-defuse-the-bomb](https://github.com/digital-dev-07/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1760-check-array-formation-through-concatenation](https://github.com/digital-dev-07/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/digital-dev-07/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1829-maximum-units-on-a-truck](https://github.com/digital-dev-07/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/digital-dev-07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/digital-dev-07/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1755-defuse-the-bomb](https://github.com/digital-dev-07/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/digital-dev-07/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/digital-dev-07/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/digital-dev-07/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
