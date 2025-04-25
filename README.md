@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/digital-dev-07/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2122-count-special-quadruplets](https://github.com/digital-dev-07/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/digital-dev-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2159-two-out-of-three](https://github.com/digital-dev-07/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/digital-dev-07/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/digital-dev-07/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2122-count-special-quadruplets](https://github.com/digital-dev-07/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2159-two-out-of-three](https://github.com/digital-dev-07/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/digital-dev-07/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/digital-dev-07/Leetcode/tree/master/0136-single-number) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/digital-dev-07/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/digital-dev-07/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2159-two-out-of-three](https://github.com/digital-dev-07/Leetcode/tree/master/2159-two-out-of-three) |
 ## Greedy
 |  |
 | ------- |
