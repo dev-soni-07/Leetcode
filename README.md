@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2181-smallest-index-with-equal-value](https://github.com/digital-dev-07/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/digital-dev-07/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/digital-dev-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/digital-dev-07/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/digital-dev-07/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1829-maximum-units-on-a-truck](https://github.com/digital-dev-07/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/digital-dev-07/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/digital-dev-07/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/digital-dev-07/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/digital-dev-07/Leetcode/tree/master/2226-rings-and-rods) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
@@ -545,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0506-relative-ranks](https://github.com/digital-dev-07/Leetcode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Geometry
 |  |
 | ------- |
