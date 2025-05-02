@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2195-time-needed-to-buy-tickets](https://github.com/digital-dev-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/digital-dev-07/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/digital-dev-07/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2186-count-vowel-substrings-of-a-string](https://github.com/digital-dev-07/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/digital-dev-07/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2215-finding-3-digit-even-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/digital-dev-07/Leetcode/tree/master/2226-rings-and-rods) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
@@ -534,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/digital-dev-07/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2122-count-special-quadruplets](https://github.com/digital-dev-07/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/digital-dev-07/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2870-longest-alternating-subarray](https://github.com/digital-dev-07/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [3221-find-the-peaks](https://github.com/digital-dev-07/Leetcode/tree/master/3221-find-the-peaks) |
