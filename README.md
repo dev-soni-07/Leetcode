@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/digital-dev-07/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/digital-dev-07/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/digital-dev-07/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/digital-dev-07/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/digital-dev-07/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/digital-dev-07/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/digital-dev-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/digital-dev-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/digital-dev-07/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/digital-dev-07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/digital-dev-07/Leetcode/tree/master/2226-rings-and-rods) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/digital-dev-07/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/digital-dev-07/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
