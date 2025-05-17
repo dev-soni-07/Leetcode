@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2331-intersection-of-multiple-arrays](https://github.com/digital-dev-07/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/digital-dev-07/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2386-min-max-game](https://github.com/digital-dev-07/Leetcode/tree/master/2386-min-max-game) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/digital-dev-07/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/digital-dev-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/digital-dev-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/digital-dev-07/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2386-min-max-game](https://github.com/digital-dev-07/Leetcode/tree/master/2386-min-max-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
