@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-matrix-is-x-matrix">2398. Check if Matrix Is X-Matrix</a></h2><h3>Easy</h3><hr><p>A square matrix is said to be an <strong>X-Matrix</strong> if <strong>both</strong> of the following conditions hold:</p>
+<h2><a href="https://leetcode.com/problems/check-if-matrix-is-x-matrix">Check if Matrix Is X-Matrix</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A square matrix is said to be an <strong>X-Matrix</strong> if <strong>both</strong> of the following conditions hold:</p>
 
 <ol>
 	<li>All the elements in the diagonals of the matrix are <strong>non-zero</strong>.</li>
