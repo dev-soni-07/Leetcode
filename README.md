@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2341-count-prefixes-of-a-given-string](https://github.com/digital-dev-07/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/digital-dev-07/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/digital-dev-07/Leetcode/tree/master/2386-min-max-game) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/digital-dev-07/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1704-special-positions-in-a-binary-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/digital-dev-07/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/digital-dev-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Combinatorics
 |  |
 | ------- |
