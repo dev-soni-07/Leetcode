@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/digital-dev-07/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/digital-dev-07/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/digital-dev-07/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
