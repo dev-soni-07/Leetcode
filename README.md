@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2398-check-if-matrix-is-x-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/digital-dev-07/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2283-sort-even-and-odd-indices-independently](https://github.com/digital-dev-07/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2331-intersection-of-multiple-arrays](https://github.com/digital-dev-07/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/digital-dev-07/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/digital-dev-07/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/digital-dev-07/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -565,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/digital-dev-07/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/digital-dev-07/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/digital-dev-07/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/digital-dev-07/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
@@ -631,4 +635,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
