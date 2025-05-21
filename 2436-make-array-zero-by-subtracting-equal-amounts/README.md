@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts">2436. Make Array Zero by Subtracting Equal Amounts</a></h2><h3>Easy</h3><hr><p>You are given a non-negative integer array <code>nums</code>. In one operation, you must:</p>
+<h2><a href="https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts">Make Array Zero by Subtracting Equal Amounts</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a non-negative integer array <code>nums</code>. In one operation, you must:</p>
 
 <ul>
 	<li>Choose a positive integer <code>x</code> such that <code>x</code> is less than or equal to the <strong>smallest non-zero</strong> element in <code>nums</code>.</li>
