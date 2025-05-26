@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task">The Employee That Worked on the Longest Task</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>There are <code>n</code> employees, each with a unique id from <code>0</code> to <code>n - 1</code>.</p>
+<h2><a href="https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task">2518. The Employee That Worked on the Longest Task</a></h2><h3>Easy</h3><hr><p>There are <code>n</code> employees, each with a unique id from <code>0</code> to <code>n - 1</code>.</p>
 
 <p>You are given a 2D integer array <code>logs</code> where <code>logs[i] = [id<sub>i</sub>, leaveTime<sub>i</sub>]</code> where:</p>
 
