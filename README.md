@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2476-check-distances-between-same-letters](https://github.com/digital-dev-07/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/digital-dev-07/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/digital-dev-07/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
