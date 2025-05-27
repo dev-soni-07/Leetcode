@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2486-most-frequent-even-element](https://github.com/digital-dev-07/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/digital-dev-07/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
+| [2551-apply-operations-to-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/digital-dev-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/digital-dev-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/digital-dev-07/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/digital-dev-07/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2386-min-max-game](https://github.com/digital-dev-07/Leetcode/tree/master/2386-min-max-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/digital-dev-07/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2551-apply-operations-to-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
