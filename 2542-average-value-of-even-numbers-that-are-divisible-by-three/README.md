@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three">2542. Average Value of Even Numbers That Are Divisible by Three</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code> of <strong>positive</strong> integers, return <em>the average value of all even integers that are divisible by</em> <code>3</code><i>.</i></p>
+<h2><a href="https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three">Average Value of Even Numbers That Are Divisible by Three</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>nums</code> of <strong>positive</strong> integers, return <em>the average value of all even integers that are divisible by</em> <code>3</code><i>.</i></p>
 
 <p>Note that the <strong>average</strong> of <code>n</code> elements is the <strong>sum</strong> of the <code>n</code> elements divided by <code>n</code> and <strong>rounded down</strong> to the nearest integer.</p>
 
