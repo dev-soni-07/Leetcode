@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2551-apply-operations-to-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/digital-dev-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/digital-dev-07/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/digital-dev-07/Leetcode/tree/master/2447-merge-similar-items) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2486-most-frequent-even-element](https://github.com/digital-dev-07/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/digital-dev-07/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
