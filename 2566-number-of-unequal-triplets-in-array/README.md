@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-unequal-triplets-in-array">2566. Number of Unequal Triplets in Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array of positive integers <code>nums</code>. Find the number of triplets <code>(i, j, k)</code> that meet the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/number-of-unequal-triplets-in-array">Number of Unequal Triplets in Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> array of positive integers <code>nums</code>. Find the number of triplets <code>(i, j, k)</code> that meet the following conditions:</p>
 
 <ul>
 	<li><code>0 &lt;= i &lt; j &lt; k &lt; nums.length</code></li>
