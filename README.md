@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/digital-dev-07/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/digital-dev-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/digital-dev-07/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/digital-dev-07/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
