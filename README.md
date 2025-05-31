@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2551-apply-operations-to-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/digital-dev-07/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/digital-dev-07/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2447-merge-similar-items](https://github.com/digital-dev-07/Leetcode/tree/master/2447-merge-similar-items) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/digital-dev-07/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2386-min-max-game](https://github.com/digital-dev-07/Leetcode/tree/master/2386-min-max-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/digital-dev-07/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/digital-dev-07/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/digital-dev-07/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/digital-dev-07/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/digital-dev-07/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Geometry
 |  |
 | ------- |
@@ -649,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/digital-dev-07/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/digital-dev-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/digital-dev-07/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Combinatorics
 |  |
 | ------- |
