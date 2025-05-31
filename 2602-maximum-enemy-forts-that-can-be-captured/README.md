@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured">2602. Maximum Enemy Forts That Can Be Captured</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>forts</code> of length <code>n</code> representing the positions of several forts. <code>forts[i]</code> can be <code>-1</code>, <code>0</code>, or <code>1</code> where:</p>
+<h2><a href="https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured">Maximum Enemy Forts That Can Be Captured</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>forts</code> of length <code>n</code> representing the positions of several forts. <code>forts[i]</code> can be <code>-1</code>, <code>0</code>, or <code>1</code> where:</p>
 
 <ul>
 	<li><code>-1</code> represents there is <strong>no fort</strong> at the <code>i<sup>th</sup></code> position.</li>
