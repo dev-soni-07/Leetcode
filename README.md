@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/digital-dev-07/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/digital-dev-07/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/digital-dev-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/digital-dev-07/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/digital-dev-07/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/digital-dev-07/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/digital-dev-07/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2532-remove-letter-to-equalize-frequency](https://github.com/digital-dev-07/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/digital-dev-07/Leetcode/tree/master/2547-odd-string-difference) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/digital-dev-07/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/digital-dev-07/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
