@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-maximum-divisibility-score">2694. Find the Maximum Divisibility Score</a></h2><h3>Easy</h3><hr><p>You are given two integer arrays <code>nums</code> and <code>divisors</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-maximum-divisibility-score">Find the Maximum Divisibility Score</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two integer arrays <code>nums</code> and <code>divisors</code>.</p>
 
 <p>The <strong>divisibility score</strong> of <code>divisors[i]</code> is the number of indices <code>j</code> such that <code>nums[j]</code> is divisible by <code>divisors[i]</code>.</p>
 
