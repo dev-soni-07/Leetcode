@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/digital-dev-07/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/digital-dev-07/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/digital-dev-07/Leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/digital-dev-07/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/digital-dev-07/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/digital-dev-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
