@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/determine-the-winner-of-a-bowling-game">2684. Determine the Winner of a Bowling Game</a></h2><h3>Easy</h3><hr><p>You are given two <strong>0-indexed</strong> integer arrays <code><font face="monospace">player1</font></code> and <code>player2</code>, representing the number of pins that player 1 and player 2 hit in a bowling game, respectively.</p>
+<h2><a href="https://leetcode.com/problems/determine-the-winner-of-a-bowling-game">Determine the Winner of a Bowling Game</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two <strong>0-indexed</strong> integer arrays <code><font face="monospace">player1</font></code> and <code>player2</code>, representing the number of pins that player 1 and player 2 hit in a bowling game, respectively.</p>
 
 <p>The bowling game consists of <code>n</code> turns, and the number of pins in each turn is exactly 10.</p>
 
