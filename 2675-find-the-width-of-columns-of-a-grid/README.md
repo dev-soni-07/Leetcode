@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-width-of-columns-of-a-grid">2675. Find the Width of Columns of a Grid</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> <code>m x n</code> integer matrix <code>grid</code>. The width of a column is the maximum <strong>length </strong>of its integers.</p>
+<h2><a href="https://leetcode.com/problems/find-the-width-of-columns-of-a-grid">Find the Width of Columns of a Grid</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> <code>m x n</code> integer matrix <code>grid</code>. The width of a column is the maximum <strong>length </strong>of its integers.</p>
 
 <ul>
 	<li>For example, if <code>grid = [[-10], [3], [12]]</code>, the width of the only column is <code>3</code> since <code>-10</code> is of length <code>3</code>.</li>
