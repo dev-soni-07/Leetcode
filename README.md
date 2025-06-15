@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/digital-dev-07/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/digital-dev-07/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/digital-dev-07/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/digital-dev-07/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/digital-dev-07/Leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/digital-dev-07/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/digital-dev-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/digital-dev-07/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/digital-dev-07/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
