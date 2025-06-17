@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/digital-dev-07/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2870-longest-alternating-subarray](https://github.com/digital-dev-07/Leetcode/tree/master/2870-longest-alternating-subarray) |
+| [2902-max-pair-sum-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3221-find-the-peaks](https://github.com/digital-dev-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/digital-dev-07/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/digital-dev-07/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2825-minimize-string-length](https://github.com/digital-dev-07/Leetcode/tree/master/2825-minimize-string-length) |
+| [2902-max-pair-sum-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/digital-dev-07/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
