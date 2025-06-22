@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/semi-ordered-permutation">2785. Semi-Ordered Permutation</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> permutation of <code>n</code> integers <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/semi-ordered-permutation">Semi-Ordered Permutation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> permutation of <code>n</code> integers <code>nums</code>.</p>
 
 <p>A permutation is called <strong>semi-ordered</strong> if the first number equals <code>1</code> and the last number equals <code>n</code>. You can perform the below operation as many times as you want until you make <code>nums</code> a <strong>semi-ordered</strong> permutation:</p>
 
