@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3034-points-that-intersect-with-cars](https://github.com/digital-dev-07/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3164-last-visited-integers](https://github.com/digital-dev-07/Leetcode/tree/master/3164-last-visited-integers) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/digital-dev-07/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3221-find-the-peaks](https://github.com/digital-dev-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
