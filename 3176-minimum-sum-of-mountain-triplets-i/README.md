@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i">3176. Minimum Sum of Mountain Triplets I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> of integers.</p>
+<h2><a href="https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i">Minimum Sum of Mountain Triplets I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> of integers.</p>
 
 <p>A triplet of indices <code>(i, j, k)</code> is a <strong>mountain</strong> if:</p>
 
