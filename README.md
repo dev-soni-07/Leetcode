@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3164-last-visited-integers](https://github.com/digital-dev-07/Leetcode/tree/master/3164-last-visited-integers) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/digital-dev-07/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3183-find-the-k-or-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3221-find-the-peaks](https://github.com/digital-dev-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/digital-dev-07/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2159-two-out-of-three](https://github.com/digital-dev-07/Leetcode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/digital-dev-07/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3183-find-the-k-or-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/3183-find-the-k-or-of-an-array) |
 ## Greedy
 |  |
 | ------- |
