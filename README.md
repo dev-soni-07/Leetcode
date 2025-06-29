@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/digital-dev-07/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3221-find-the-peaks](https://github.com/digital-dev-07/Leetcode/tree/master/3221-find-the-peaks) |
+| [3227-find-missing-and-repeated-values](https://github.com/digital-dev-07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2496-count-days-spent-together](https://github.com/digital-dev-07/Leetcode/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2831-number-of-beautiful-pairs](https://github.com/digital-dev-07/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/digital-dev-07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/digital-dev-07/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/digital-dev-07/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2831-number-of-beautiful-pairs](https://github.com/digital-dev-07/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2902-max-pair-sum-in-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/digital-dev-07/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3227-find-missing-and-repeated-values](https://github.com/digital-dev-07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/digital-dev-07/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -684,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2398-check-if-matrix-is-x-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/digital-dev-07/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/digital-dev-07/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/digital-dev-07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
 | ------- |
