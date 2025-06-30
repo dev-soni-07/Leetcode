@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3221-find-the-peaks](https://github.com/digital-dev-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/digital-dev-07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/digital-dev-07/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2698-find-the-array-concatenation-value](https://github.com/digital-dev-07/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/digital-dev-07/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/digital-dev-07/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/digital-dev-07/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -639,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/digital-dev-07/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2870-longest-alternating-subarray](https://github.com/digital-dev-07/Leetcode/tree/master/2870-longest-alternating-subarray) |
 | [3221-find-the-peaks](https://github.com/digital-dev-07/Leetcode/tree/master/3221-find-the-peaks) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/digital-dev-07/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## String Matching
 |  |
