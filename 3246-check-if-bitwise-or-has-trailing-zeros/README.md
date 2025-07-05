@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros">3246. Check if Bitwise OR Has Trailing Zeros</a></h2><h3>Easy</h3><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros">Check if Bitwise OR Has Trailing Zeros</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code>.</p>
 
 <p>You have to check if it is possible to select <strong>two or more</strong> elements in the array such that the bitwise <code>OR</code> of the selected elements has <strong>at least </strong>one trailing zero in its binary representation.</p>
 
