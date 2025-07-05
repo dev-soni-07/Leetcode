@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3221-find-the-peaks](https://github.com/digital-dev-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/digital-dev-07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/digital-dev-07/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/digital-dev-07/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/3321-type-of-triangle) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2159-two-out-of-three](https://github.com/digital-dev-07/Leetcode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/digital-dev-07/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3183-find-the-k-or-of-an-array](https://github.com/digital-dev-07/Leetcode/tree/master/3183-find-the-k-or-of-an-array) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/digital-dev-07/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Greedy
 |  |
 | ------- |
