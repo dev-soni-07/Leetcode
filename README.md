@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/digital-dev-07/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/3321-type-of-triangle) |
+| [3330-modify-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -698,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2585-delete-greatest-value-in-each-row](https://github.com/digital-dev-07/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/digital-dev-07/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/digital-dev-07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3330-modify-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Combinatorics
 |  |
 | ------- |
