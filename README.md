@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/digital-dev-07/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/3321-type-of-triangle) |
+| [3324-split-the-array](https://github.com/digital-dev-07/Leetcode/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3034-points-that-intersect-with-cars](https://github.com/digital-dev-07/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/digital-dev-07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3324-split-the-array](https://github.com/digital-dev-07/Leetcode/tree/master/3324-split-the-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/digital-dev-07/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/digital-dev-07/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/digital-dev-07/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2532-remove-letter-to-equalize-frequency](https://github.com/digital-dev-07/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2831-number-of-beautiful-pairs](https://github.com/digital-dev-07/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/digital-dev-07/Leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3324-split-the-array](https://github.com/digital-dev-07/Leetcode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/digital-dev-07/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Bit Manipulation
