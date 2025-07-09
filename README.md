@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3321-type-of-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/digital-dev-07/Leetcode/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/3330-modify-the-matrix) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/digital-dev-07/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2791-find-the-losers-of-the-circular-game](https://github.com/digital-dev-07/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/digital-dev-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3164-last-visited-integers](https://github.com/digital-dev-07/Leetcode/tree/master/3164-last-visited-integers) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/digital-dev-07/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/digital-dev-07/Leetcode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/3533-snake-in-matrix) |
