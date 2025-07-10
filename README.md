@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3321-type-of-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/digital-dev-07/Leetcode/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/digital-dev-07/Leetcode/tree/master/3330-modify-the-matrix) |
+| [3334-apple-redistribution-into-boxes](https://github.com/digital-dev-07/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/digital-dev-07/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/digital-dev-07/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2836-neither-minimum-nor-maximum](https://github.com/digital-dev-07/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/digital-dev-07/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/digital-dev-07/Leetcode/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/digital-dev-07/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/digital-dev-07/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2469-longest-subsequence-with-limited-sum](https://github.com/digital-dev-07/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/digital-dev-07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/digital-dev-07/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3334-apple-redistribution-into-boxes](https://github.com/digital-dev-07/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Enumeration
 |  |
 | ------- |
