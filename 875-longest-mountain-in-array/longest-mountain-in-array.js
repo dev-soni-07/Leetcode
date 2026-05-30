@@ -8,10 +8,6 @@ var longestMountain = function(arr) {
     let ans = 0;
 
     for (let i = 1; i < arr.length; i++) {
-
-        // reset when:
-        // 1. new mountain starts after descending
-        // 2. equal elements break mountain
         if ((down > 0 && arr[i] > arr[i - 1]) ||
             arr[i] === arr[i - 1]) {
             up = 0;
