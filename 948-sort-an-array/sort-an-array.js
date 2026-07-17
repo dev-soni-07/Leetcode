@@ -3,35 +3,45 @@
  * @return {number[]}
  */
 var sortArray = function(nums) {
-    const n = nums.length;
 
-    function heapify(i, size) {
-        let largest = i;
-        let left = 2 * i + 1;
-        let right = 2 * i + 2;
+    function mergeSort(arr) {
+        if (arr.length <= 1) return arr;
 
-        if (left < size && nums[left] > nums[largest]) {
-            largest = left;
-        }
+        const mid = Math.floor(arr.length / 2);
 
-        if (right < size && nums[right] > nums[largest]) {
-            largest = right;
-        }
+        const left = mergeSort(arr.slice(0, mid));
+        const right = mergeSort(arr.slice(mid));
 
-        if (largest !== i) {
-            [nums[i], nums[largest]] = [nums[largest], nums[i]];
-            heapify(largest, size);
-        }
+        return merge(left, right);
     }
 
-    for (let i = Math.floor(n / 2) - 1; i >= 0; i--) {
-        heapify(i, n);
+    function merge(left, right) {
+        let result = [];
+        let i = 0;
+        let j = 0;
+
+        while (i < left.length && j < right.length) {
+            if (left[i] <= right[j]) {
+                result.push(left[i]);
+                i++;
+            } else {
+                result.push(right[j]);
+                j++;
+            }
+        }
+
+        while (i < left.length) {
+            result.push(left[i]);
+            i++;
+        }
+
+        while (j < right.length) {
+            result.push(right[j]);
+            j++;
+        }
+
+        return result;
     }
 
-    for (let i = n - 1; i > 0; i--) {
-        [nums[0], nums[i]] = [nums[i], nums[0]];
-        heapify(0, i);
-    }
-
-    return nums;
+    return mergeSort(nums);
 };
